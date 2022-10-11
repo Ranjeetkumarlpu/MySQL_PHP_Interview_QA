@@ -5,3 +5,5 @@ MySQL : https://www.mysqltutorial.org/getting-started-with-mysql/
 PHP   : https://www.phptutorial.net/
 
 PHP Interview QA : https://www.interviewbit.com/php-interview-questions/
+
+Java T Point : https://www.javatpoint.com/php-interview-questions
